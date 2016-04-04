@@ -31,16 +31,22 @@ Install the Nuance debug utility so you can access the S-Voice development setti
 1. Download the latest version of the [Nuance Debug Utility](#)
 2. Connect you phone to the device with a device USB cable.
 3. Copy the Nuancedebug.apk from your computer to the device.
-    1. Open Windows explorer
-    2. Browse to the where you downloaded the NuanceDebug.apk
-    3. Select and copy the NuanceDebug.apk
+    1. Open Windows explorer.
+    2. Browse to the where you downloaded the NuanceDebug.apk.
+    3. Select and copy the NuanceDebug.apk.
     4. Browse to you connected device.
     5. Paste the NuanceDebug.apk into a folder of you choosing.  
-     *Remember where you copied it*
-4. On your device open the **File Manager**
- 
+     *Remember where you copied it*.
+4. On your device open the **File Manager**.
+5. Browse to where you saved NuanceDebug.apk.
+6. Tap the file and follow the prompts to install.
+
+You will now see a new icon for the Nuance Debug Utility
+
+---
 
 ###Install SVFsampler
+
 
 ###Install S-Voice
 
