@@ -26,7 +26,7 @@ Restart the device once these steps have been completed.
 
 ---
 ###Install Nuance debug utility
-Install the Nuance debug utility so you can access the S-Voice development settings.
+Install the Nuance debug utility so you can access the Project Z development settings.
 
 1. Download the latest version of the [Nuance Debug Utility](#)
 2. Connect you phone to the device with a device USB cable.
@@ -68,32 +68,53 @@ You will now see a new icon for the Nuance Debug Utility.
 11. Restart the device.
 
 ---
-###Install S-Voice
+###Install Project Z
 This project is under Continuous Integration(CI) so there may be multiple builds a day. It is fine to use any build from the current day, unless there is an issue in an earlier build.
 
-1. Download the latest Project Z version of the [S-Voice](#)
+1. Download the latest Project Z version of the [S-Voice - Project Z](#)
 2. Connect you phone to the device with a device USB cable.
-3. Copy the S-Voice.apk from your computer to the device.
+3. Copy the ProjectZ.apk from your computer to the device.
   1. Open Windows explorer.
-  2. Browse to the where you downloaded the S-Voice.apk.
-  3. Select and copy the S-Voice.apk.
+  2. Browse to the where you downloaded the ProjectZ.apk.
+  3. Select and copy the ProjectZ.apk.
   4. Browse to you connected device.
-  5. Paste the S-Voice.apk into a folder of you choosing.  
+  5. Paste the ProjectZ.apk into a folder of you choosing.  
      *Remember where you copied it*.
 4. On your device open the **File Manager**.
-5. Browse to where you saved S-Voice.apk.
+5. Browse to where you saved ProjectZ.apk.
 6. Tap the file and follow the prompts to install.
 7.  ***Do not open the application***  when the install has finished.
-8. Restart the device and complete the steps in **Set-up S-Voice for testing**.
+8. Restart the device and complete the steps in **Set-up Project Z for testing**.
 
 ---
 
-###Set-up S-Voice for testing
+###Set-up Project Z for testing
+Before you attempt to run the Project Z application for testing, you will need to complete some final set-up steps.
+####Set Language and update language Vocon version
+The first time you start the Project Z application you will be able to select a testing language.  
+Follow these steps to make sure the VOCON version is the most recent:  
 
-####Set Language
+1. Find and tap the Project Z icon to start the application.
+2. You will see a list of available languages with an *Update* section below that. First select the testing language from the *Update* section.
+3. Now select the testing language from the list of available languages at the top.
 
-####Update language Vocon version
+The Project Z application will now start in the language selected.
 
 ####Set test server
+You will also need to set-up your test servers.
+
+1. Tap the **Nuance Debug** application.
+2. Select **Set default servers** from the options.
+3. Choose your testing server from the drop down.
+4. Tap **Apply** to set the testing servers and exit the application.
 
 ####Update LMTT
+To be able to use test *Music*, *Applications*, and *Contacts* you will need to push a LMTT update from the device.
+
+1. Tap the **Nuance Debug** application.
+2. Select **Debug options**.
+3. Choose **LMTT Update** from the menu of commands.
+4. Select the **Update all** option.
+
+You will need to wait several minutes before the update is processed on the servers.
+>If you have waited a few minutes and LMTT items are still not recognized
