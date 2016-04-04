@@ -10,7 +10,7 @@ Have Android USB drivers installed on you computer.
 ---
 
 ###Un-install previous version of S-Voice
-Remove or Uninstall Updates for any version of S-Voice currently on the device.
+Uninstall Updates for any version of S-Voice currently on the device.
 
 To do this:
 
@@ -30,6 +30,15 @@ Install the Nuance debug utility so you can access the S-Voice development setti
 
 1. Download the latest version of the [Nuance Debug Utility](#)
 2. Connect you phone to the device with a device USB cable.
+3. Copy the Nuancedebug.apk from your computer to the device.
+ 1.. Open Windows explorer
+ 2.. Browse to the where you downloaded the NuanceDebug.apk
+ 3.. Select and copy the NuanceDebug.apk
+ 4.. Browse to you connected device.
+ 5.. Paste the NuanceDebug.apk into a folder of you choosing.  
+ *Remember where you copied it*
+4. On your device open the **File Manager**
+ 
 
 ###Install SVFsampler
 
