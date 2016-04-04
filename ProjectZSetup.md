@@ -11,15 +11,10 @@ Remove or Uninstall Updates for any version of S-Voice currently on the device.
 To do this:
 
 1. Go to *Settings*
-
 2. Choose *Application Manager*
-
 3. Swipe left to *All*
-
 4. Find **S-Voice** and single tap to open application information.
-
 5. Tap **Clear Data**
-
 6. Next, tap **Uninstall Updates**
 
 Restart the device once these steps have been completed.
