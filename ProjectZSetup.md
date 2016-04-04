@@ -69,7 +69,7 @@ You will now see a new icon for the Nuance Debug Utility.
 
 ---
 ###Install S-Voice
-Install the latest build for Project Z. This project is under Continuous Integration(CI) so there may be multiple builds a day. It is fine to use any build from the current day, unless there is an issue in an earlier build.
+This project is under Continuous Integration(CI) so there may be multiple builds a day. It is fine to use any build from the current day, unless there is an issue in an earlier build.
 
 1. Download the latest Project Z version of the [S-Voice](#)
 2. Connect you phone to the device with a device USB cable.
