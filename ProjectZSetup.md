@@ -63,13 +63,30 @@ You will now see a new icon for the Nuance Debug Utility.
 6. Tap the file and follow the prompts to install.
 7.  When the install has finished,  go to **Settings**.
 8. Choose **Application Manager**.
-9. Swipe left to **All**.
-10. Find **SVFsampler** and single tap to open application information.
-11. Tap **Clear Data**.
-12. Restart the device.
+9. Find **SVFsampler** and single tap to open application information.
+10. Tap **Clear Data**.
+11. Restart the device.
 
 ---
 ###Install S-Voice
+
+1. Download the latest version of the [SVFsampler](#)
+2. Connect you phone to the device with a device USB cable.
+3. Copy the SVFsampler.apk from your computer to the device.
+  1. Open Windows explorer.
+  2. Browse to the where you downloaded the SVFsampler.apk.
+  3. Select and copy the SVFsampler.apk.
+  4. Browse to you connected device.
+  5. Paste the SVFsampler.apk into a folder of you choosing.  
+     *Remember where you copied it*.
+4. On your device open the **File Manager**.
+5. Browse to where you saved SVFsampler.apk.
+6. Tap the file and follow the prompts to install.
+7.  When the install has finished,  go to **Settings**.
+8. Choose **Application Manager**.
+9. Find **SVFsampler** and single tap to open application information.
+10. Tap **Clear Data**.
+11. Restart the device.
 
 ---
 ###Set-up S-Voice for testing
