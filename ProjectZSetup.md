@@ -117,4 +117,4 @@ To be able to use test *Music*, *Applications*, and *Contacts* you will need to 
 4. Select the **Update all** option.
 
 You will need to wait several minutes before the update is processed on the servers.
->If you have waited a few minutes and LMTT items are still not recognized
+>If you have waited a few minutes and LMTT items are still not recognized. Check that you are using the most up-to-date SVFsampler application.
