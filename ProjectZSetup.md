@@ -3,11 +3,9 @@
 
 
 ###Preconditions
-You must use a rooted device running Android OS 5.0+ to test Project Zero.  
-Check [this list](#) for a compatible device. 
+You must use a rooted device running Android OS 5.0+ to test Project Zero.  Check [this list](#) for a compatible device. 
 
 Have Android USB drivers installed on you computer.  
-
 [Go here](http://developer.android.com/sdk/win-usb.html) for more information on installing the USB drivers.
 
 ---
@@ -44,9 +42,9 @@ Install the Nuance debug utility so you can access the Project Z development set
 You will now see a new icon for the Nuance Debug Utility.
 
 ---
-
 ###Install SVFsampler
 >Because of a change in architecture, Project Z now requires the SVF application to be installed along with S-Voice. This application is owned by the client. We make use of a sample version that they have provided to us for testing and development purposes.
+>
 >Just make sure you have the most up-to-date version installed when you are testing.
 
 1. Download the latest version of the [SVFsampler](#)
@@ -69,7 +67,7 @@ You will now see a new icon for the Nuance Debug Utility.
 
 ---
 ###Install Project Z
-This project is under Continuous Integration(CI) so there may be multiple builds a day. It is fine to use any build from the current day, unless there is an issue in an earlier build.
+This project is under Continuous Integration(CI) so there may be multiple builds a day. You can use any build from the current day.
 
 1. Download the latest Project Z version of the [S-Voice - Project Z](#)
 2. Connect you phone to the device with a device USB cable.
@@ -87,7 +85,6 @@ This project is under Continuous Integration(CI) so there may be multiple builds
 8. Restart the device and complete the steps in **Set-up Project Z for testing**.
 
 ---
-
 ###Set-up Project Z for testing
 Before you attempt to run the Project Z application for testing, you will need to complete some final set-up steps.
 ####Set Language and update language Vocon version
@@ -109,7 +106,9 @@ You will also need to set-up your test servers.
 4. Tap **Apply** to set the testing servers and exit the application.
 
 ####Update LMTT
-To be able to use test *Music*, *Applications*, and *Contacts* you will need to push a LMTT update from the device.
+To be able to use test *Music*, *Applications*, and *Contacts* you will need to push a LMTT update from the device.   
+
+To do this:
 
 1. Tap the **Nuance Debug** application.
 2. Select **Debug options**.
