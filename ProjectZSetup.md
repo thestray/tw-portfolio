@@ -1,4 +1,4 @@
-#Project Z - Setup.
+#Project Z - Set-up.
 
 ###Preconditions
 You must use a rooted device running Android OS 5.0+ to test Project Zero.  
@@ -9,7 +9,7 @@ Have Android USB drivers installed on you computer.
 
 ---
 
-###Un-install previous version of S-Voice
+###Uninstall previous version of S-Voice
 Uninstall Updates for any version of S-Voice currently on the device.
 
 To do this:
@@ -46,13 +46,34 @@ You will now see a new icon for the Nuance Debug Utility.
 ---
 
 ###Install SVFsampler
+>Because of a change in architecture, Project Z now requires the SVF application to be installed along with S-Voice. This application is owned by the client. We make use of a sample version that they have provided to us for testing and development purposes.
+>Just make sure you have the most up-to-date version installed when you are testing.
 
+1. Download the latest version of the [SVFsampler](#)
+2. Connect you phone to the device with a device USB cable.
+3. Copy the SVFsampler.apk from your computer to the device.
+  1. Open Windows explorer.
+  2. Browse to the where you downloaded the SVFsampler.apk.
+  3. Select and copy the SVFsampler.apk.
+  4. Browse to you connected device.
+  5. Paste the SVFsampler.apk into a folder of you choosing.  
+     *Remember where you copied it*.
+4. On your device open the **File Manager**.
+5. Browse to where you saved SVFsampler.apk.
+6. Tap the file and follow the prompts to install.
+7.  When the install has finished,  go to **Settings**.
+8. Choose **Application Manager**.
+9. Swipe left to **All**.
+10. Find **SVFsampler** and single tap to open application information.
+11. Tap **Clear Data**.
+12. Restart the device.
 
+---
 ###Install S-Voice
 
-###Setup S-Voice for testing
-
+---
+###Set-up S-Voice for testing
 ####Set Language
-#####Update language Vocon version
+####Update language Vocon version
 ####Set test server
 ####Update LMTT
