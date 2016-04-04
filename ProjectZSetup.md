@@ -12,7 +12,7 @@
 
 ###Setup S-Voice for testing
 
-    ####Set Language
-        #####Update language Vocon version
-    ####Set test server
-    ####Update LMTT
+####Set Language
+#####Update language Vocon version
+####Set test server
+####Update LMTT
