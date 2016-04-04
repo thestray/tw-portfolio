@@ -1,10 +1,10 @@
 #Project Z - Setup.
 
 ###Preconditions
-You must use a rooted device running Android OS 5.0+ to test Project Zero. 
+You must use a rooted device running Android OS 5.0+ to test Project Zero.  
 Check [this list](#) for a compatible device. 
 
-Have Android USB drivers installed on you computer. 
+Have Android USB drivers installed on you computer.  
 [Go here](http://developer.android.com/sdk/win-usb.html) for more information on installing the USB drivers.
 
 ---
