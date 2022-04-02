@@ -1,6 +1,6 @@
 #Techical Writing Portfolio Samples
 
-This repository contains two of my more recent technical based writing samples.
+This repository contains several of my writing samples.
 
 The first **MasterTOEICListening.md** is an example of a article I wrote as part of a series for an Education Startup.  
 You can also find it [online here](http://www.fluentu.com/toeic/blog/toeic-listening-tips/)
