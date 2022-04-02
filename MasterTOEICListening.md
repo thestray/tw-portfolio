@@ -1,4 +1,4 @@
-#Master TOEIC Listening with these 5 Tips
+# Master TOEIC Listening with these 5 Tips
 		
 Listening is easy right? You do it all the time. That means that the TOEIC Listening should be easy as well, don’t you think? 
 
@@ -10,7 +10,7 @@ Most people agree that to Master the TOEIC, you need to improve not only your ba
 
 So here are 5 tips to help you master the TOEIC listening section.
 
-###Practice Makes Perfect. Why you Should do Practice Tests
+### Practice Makes Perfect. Why you Should do Practice Tests
 
 Our First Tip. While you are preparing for the TOEIC it is important that you do constant practice under test conditions. You need to do all parts of the test paper to get used to the quick transitions, fast pace and types of tricks and traps that appear in the test. This is because you need to understand how to manage your time. Particularly for the listening section as you have no control over the speed of the questions.
 
@@ -24,7 +24,7 @@ But that doesn't mean you have to jump in from the first day doing full tests. I
 
 Starting the test like this you will also be able to see which areas you need to focus your studies on. **But don't forget that it is important to start doing tests in actual test conditions as soon as possible.**
 		
-###Mastering Part One, the True or False.
+### Mastering Part One, the True or False.
 
 Our tip is for you to practice being able to quickly come up with as many true English sentences in your head about a given photograph as you can.
 
@@ -48,7 +48,7 @@ The best way to answer the questions for this part is to look at the picture com
 
 If you are not sure and still have 2 or 3 options it might be, just decide with what you feel is right, write down your answer and move onto the next question. Often the choice that you feel is right the first time will be the correct answer. Thinking about it any longer won’t help and will stop you concentrating on the next question.
 
-###Using Prediction to Answer Part Two.
+### Using Prediction to Answer Part Two.
 Our tip for Part Two is learning how to activate what you already know and use prediction skills to imagine the correct answer before to hearing the different options. This makes it easier to answer the question correctly.
 
 This of the TOEIC listening section is made up of 30 different questions. You will be asked a question about almost anything and you need to choose a suitable answer from 3 choices. Because the TOEIC listening is only heard once and it can be rather fast in some places.
@@ -62,7 +62,7 @@ Keep in mind the question as you listen to the possible answers. Choose the answ
 
 When studying for this section it’s a good idea to play the recording and listen to the question. After you’ve heard it, pause the recording and brainstorm a few answers to the question. This will help activate your knowledge and prepare you for the three different answers. After you’ve come up with a few ideas, continue to play the rest of the recording so you can identify the correct answer easier. 
 
-###Understanding the Conversations in Part Three.
+### Understanding the Conversations in Part Three.
 
 Part Three is a little longer and it is not uncommon for you to be feeling a little tired by now in the exam. But here you will need to focus and pay attention because you will want to actively listen for the answers to the questions as recording is playing.
 
@@ -80,7 +80,7 @@ When you are studying for this section it is best to look at the questions befor
 During the actual test, try and read the questions before you listen to the recording. If you still have time, also try and read the multiple choice answers.
 
 
-###How to Follow Part Four’s Short Talks.
+### How to Follow Part Four’s Short Talks.
 
 In the fourth and final part of the listening section, you will hear three short talks about different scenarios. You will then have to answer questions about them. You will need to concentrate more carefully in this part to remember the details. Our tip for here is to find the keywords in the questions before you listen to the recording.
 
@@ -92,6 +92,6 @@ When you are doing the actual exam pay attention to the context. Try to read the
 
 
 
-###Conclusion
+### Conclusion
 
 Don’t be fooled into thinking that the TOEIC listening section is easy because it just consists of answering multiple-choice questions - it’s not. It needs a lot of practice and good time management to ensure that you will achieve a high score. Hopefully these tips will help you Master the TOEIC and let you get the score that you want.
