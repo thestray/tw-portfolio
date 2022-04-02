@@ -1,4 +1,4 @@
-#Techical Writing Portfolio Samples
+# Techical Writing Portfolio Samples
 
 This repository contains several of my writing samples.
 
